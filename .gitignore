@@ -1,0 +1,12 @@
+docs/
+bin/
+obj/
+
+# User-specific files
+Lab04.csproj
+Lab04.sln
+
+
+
+
+
